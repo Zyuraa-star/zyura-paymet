@@ -1,1 +1,0 @@
-# zyura-paymet
